@@ -21,6 +21,9 @@ Tailwind CSS
 
 Installation
 Clone the repository: git clone https://github.com/dar2003/razorpay-clone.git
+
 Open the project in your favorite code editor.
+
 Start a local server (e.g., npm install -g http-server && http-server)
+
 Navigate to http://localhost:5173 to view the Razorpay clone.
